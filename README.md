@@ -1,3 +1,5 @@
 # gitflowteste
 
 Alteração feita direto no Github web. (2)
+
+Bug resolvido.
